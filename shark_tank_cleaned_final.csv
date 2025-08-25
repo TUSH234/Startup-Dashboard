@@ -1,0 +1,101 @@
+Startup,Industry,Founder,Founder_Gender,Education,Previous_Startup_Exp,Ask_Amount(USD),Deal_Amount(USD),Equity_Asked(%),Equity_Given(%),Investor,Deal_Amount_Cleaned
+Startup_1,Technology,Amit,Female,Commerce,0,459294,459294,8,8,Mark,459294
+Startup_2,Automobile,Riya,Male,Commerce,1,409401,409401,15,15,Peyush,409401
+Startup_3,Fashion,Pooja & Sanya,Mixed,Commerce,1,155712,155712,11,11,Namita,155712
+Startup_4,Food & Beverage,Kabir & Tanvi,Mixed,Commerce,1,488030,488030,18,18,No Deal,0
+Startup_5,Education,Neha & Amit,Mixed,Commerce,1,115234,115234,8,8,Aman,115234
+Startup_6,Fashion,Karan,Female,Commerce,1,422425,422425,13,13,Mark,422425
+Startup_7,Education,Karan,Female,Commerce,1,358080,271874,20,20,No Deal,0
+Startup_8,Healthcare,Vikram & Tanvi,Mixed,Commerce,1,259268,259268,12,12,No Deal,0
+Startup_9,Fashion,Arjun,Female,Commerce,1,487213,382808,6,6,Namita,382808
+Startup_10,Fitness,Deepak,Mixed,Commerce,1,446590,405595,7,7,No Deal,0
+Startup_11,Food & Beverage,Karan,Male,Commerce,0,148090,148090,17,17,Ashneer,148090
+Startup_12,Food & Beverage,Ishaan,Female,Commerce,0,192751,192751,14,14,No Deal,0
+Startup_13,Fitness,Tanvi,Female,Commerce,1,421288,421288,12,12,Namita,421288
+Startup_14,Technology,Ishaan,Male,Commerce,1,328889,10716,5,5,Anupam,10716
+Startup_15,Fashion,Deepak,Male,Commerce,1,357641,272822,8,8,Namita,272822
+Startup_16,Automobile,Kabir,Female,Commerce,0,327983,327983,19,19,Namita,327983
+Startup_17,Fashion,Anjali & Deepak,Mixed,Commerce,0,192509,192509,17,17,Anupam,192509
+Startup_18,Healthcare,Tanvi,Male,Commerce,1,86539,86539,11,11,Peyush,86539
+Startup_19,Fitness,Anjali,Mixed,Commerce,1,142615,33919,14,14,Namita,33919
+Startup_20,Sustainability,Tanvi,Male,Commerce,1,308241,142601,20,20,Mark,142601
+Startup_21,Technology,Tanvi,Mixed,Commerce,1,83106,83106,17,17,Anupam,83106
+Startup_22,Healthcare,Anjali & Neha,Mixed,Commerce,0,70799,70799,5,5,Ashneer,70799
+Startup_23,Healthcare,Vikram,Male,Design,1,288080,288080,19,19,Vineeta,288080
+Startup_24,Education,Anjali,Mixed,Design,0,317566,317566,6,6,Namita,317566
+Startup_25,Technology,Neha & Amit,Mixed,Design,1,437580,287885,11,11,Anupam,287885
+Startup_26,Technology,Sanya,Male,Design,0,390011,185924,19,19,Mark,185924
+Startup_27,Technology,Vikram,Male,Design,0,224338,224338,17,17,Namita,224338
+Startup_28,Fashion,Arjun & Tanvi,Mixed,Design,1,70075,23350,5,5,Anupam,23350
+Startup_29,Automobile,Sanya & Arjun,Mixed,Design,0,50732,50732,11,11,No Deal,0
+Startup_30,Healthcare,Pooja,Mixed,Design,1,270901,211255,6,6,No Deal,0
+Startup_31,Education,Arjun,Mixed,Design,1,51109,51109,9,9,No Deal,0
+Startup_32,Fitness,Meera,Female,Design,0,140514,75858,20,20,Anupam,75858
+Startup_33,Automobile,Rohan & Riya,Mixed,Design,1,348530,343247,20,20,Vineeta,343247
+Startup_34,Sustainability,Anjali & Amit,Mixed,Design,0,366998,366998,16,16,No Deal,0
+Startup_35,Technology,Karan,Male,Design,0,385669,102891,12,12,Namita,102891
+Startup_36,Sustainability,Pooja & Meera,Mixed,Design,0,151798,151798,10,10,Ashneer,151798
+Startup_37,Technology,Kabir,Male,Design,1,348378,348378,7,7,Namita,348378
+Startup_38,Food & Beverage,Tanvi,Mixed,Design,0,51485,51485,11,11,Namita,51485
+Startup_39,Fashion,Karan,Mixed,Design,1,246454,112788,14,14,Namita,112788
+Startup_40,Fitness,Deepak,Mixed,Design,0,287604,264334,9,9,Namita,264334
+Startup_41,Fashion,Sanya,Male,Engineering,1,320711,320711,9,9,Mark,320711
+Startup_42,Sustainability,Tanvi,Mixed,Engineering,0,243114,243114,9,9,Aman,243114
+Startup_43,Fitness,Tanvi,Female,Engineering,1,462840,462840,7,7,Aman,462840
+Startup_44,Food & Beverage,Sanya,Female,Engineering,0,363987,163120,11,11,Vineeta,163120
+Startup_45,Sustainability,Tanvi,Male,Engineering,0,481146,294486,13,13,Aman,294486
+Startup_46,Food & Beverage,Riya & Riya,Mixed,Engineering,1,88508,27784,15,15,Anupam,27784
+Startup_47,Sustainability,Vikram,Mixed,Engineering,0,469932,469932,18,18,Mark,469932
+Startup_48,Healthcare,Arjun,Female,Engineering,1,89184,89184,17,17,No Deal,0
+Startup_49,Sustainability,Neha & Pooja,Mixed,Engineering,1,237450,237450,8,8,Peyush,237450
+Startup_50,Technology,Deepak,Male,Engineering,1,275146,25599,19,19,Peyush,25599
+Startup_51,Fitness,Deepak,Mixed,Engineering,1,128299,128299,10,10,Aman,128299
+Startup_52,Technology,Karan & Kabir,Mixed,Engineering,0,442014,442014,8,8,Namita,442014
+Startup_53,Automobile,Arjun,Female,Engineering,1,481790,481790,11,11,Anupam,481790
+Startup_54,Education,Riya & Ishaan,Mixed,Engineering,0,101578,101578,5,5,No Deal,0
+Startup_55,Healthcare,Amit & Rohan,Mixed,Engineering,0,424029,380003,13,13,Mark,380003
+Startup_56,Automobile,Meera,Male,MBA,0,470312,470312,10,10,Namita,470312
+Startup_57,Food & Beverage,Pooja & Kabir,Mixed,MBA,0,341396,108120,11,11,Namita,108120
+Startup_58,Education,Tanvi,Female,MBA,1,295963,71085,15,15,Ashneer,71085
+Startup_59,Education,Meera,Female,MBA,1,81970,81970,18,18,No Deal,0
+Startup_60,Sustainability,Amit,Mixed,MBA,0,402378,402378,7,7,Anupam,402378
+Startup_61,Healthcare,Karan & Ishaan,Mixed,MBA,1,58086,22368,14,14,Anupam,22368
+Startup_62,Education,Tanvi & Riya,Mixed,MBA,1,213415,20255,6,6,Mark,20255
+Startup_63,Fashion,Vikram,Mixed,MBA,1,61846,38075,17,17,Aman,38075
+Startup_64,Automobile,Vikram,Male,MBA,1,477720,434708,8,8,No Deal,0
+Startup_65,Education,Tanvi,Mixed,MBA,1,347577,347577,20,20,Peyush,347577
+Startup_66,Education,Rohan,Mixed,MBA,0,432821,432821,16,16,Peyush,432821
+Startup_67,Fashion,Pooja,Female,MBA,1,281407,281407,7,7,Namita,281407
+Startup_68,Sustainability,Pooja & Vikram,Mixed,MBA,0,211409,162722,16,16,No Deal,0
+Startup_69,Automobile,Sanya,Mixed,MBA,0,340680,340680,19,19,Peyush,340680
+Startup_70,Fitness,Kabir,Female,MBA,1,211703,117375,6,6,Aman,117375
+Startup_71,Education,Anjali,Male,MBA,1,345012,345012,6,6,Mark,345012
+Startup_72,Healthcare,Arjun & Pooja,Mixed,MBA,1,132479,132479,12,12,Vineeta,132479
+Startup_73,Education,Ishaan,Female,MBA,0,243119,243119,19,19,Anupam,243119
+Startup_74,Fitness,Amit,Male,MBA,0,324006,220816,16,16,Mark,220816
+Startup_75,Education,Deepak,Mixed,MBA,0,266465,266465,5,5,Ashneer,266465
+Startup_76,Fashion,Amit,Mixed,Medicine,0,457729,457729,6,6,Vineeta,457729
+Startup_77,Fitness,Karan & Amit,Mixed,Medicine,0,425893,144227,16,16,Namita,144227
+Startup_78,Automobile,Pooja,Male,Medicine,1,228995,15833,15,15,No Deal,0
+Startup_79,Automobile,Neha,Male,Medicine,1,433597,433597,18,18,Ashneer,433597
+Startup_80,Technology,Vikram,Female,Medicine,0,308514,308514,6,6,Vineeta,308514
+Startup_81,Technology,Deepak,Female,Medicine,0,243149,243149,12,12,Vineeta,243149
+Startup_82,Fashion,Arjun & Sanya,Mixed,Medicine,1,498068,334635,5,5,Peyush,334635
+Startup_83,Healthcare,Karan,Mixed,Medicine,1,220414,220414,12,12,Aman,220414
+Startup_84,Automobile,Karan & Amit,Mixed,Medicine,0,200396,200396,16,16,Aman,200396
+Startup_85,Automobile,Rohan & Amit,Mixed,Medicine,0,336759,336759,9,9,Peyush,336759
+Startup_86,Healthcare,Amit,Female,Medicine,1,483932,445965,10,10,Ashneer,445965
+Startup_87,Automobile,Vikram,Mixed,Medicine,1,225626,225626,5,5,Peyush,225626
+Startup_88,Automobile,Sanya & Arjun,Mixed,Medicine,1,473693,473693,8,8,Aman,473693
+Startup_89,Education,Sanya,Male,Medicine,0,108299,108299,11,11,No Deal,0
+Startup_90,Technology,Arjun,Female,Medicine,1,139130,139130,6,6,Vineeta,139130
+Startup_91,Sustainability,Tanvi,Male,Medicine,1,497412,172967,19,19,Ashneer,172967
+Startup_92,Technology,Ishaan,Female,Medicine,0,319137,319137,13,13,Mark,319137
+Startup_93,Education,Tanvi,Mixed,Medicine,1,375258,132271,17,17,Ashneer,132271
+Startup_94,Sustainability,Karan,Female,Medicine,0,344064,293553,17,17,Namita,293553
+Startup_95,Sustainability,Neha,Male,Medicine,1,256299,256299,7,7,Ashneer,256299
+Startup_96,Healthcare,Anjali,Mixed,Medicine,1,449777,85923,12,12,Namita,85923
+Startup_97,Technology,Anjali,Female,Medicine,1,236498,236498,7,7,Mark,236498
+Startup_98,Education,Amit,Female,Medicine,1,91130,88208,12,12,No Deal,0
+Startup_99,Fitness,Deepak,Female,Medicine,1,398650,398650,10,10,Ashneer,398650
+Startup_100,Technology,Arjun,Mixed,Medicine,0,414536,414536,6,6,Peyush,414536
